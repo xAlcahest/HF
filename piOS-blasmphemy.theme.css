@@ -27,13 +27,13 @@
 
 .theme-dark {
     --pios-background-color:    #eeff00;
-    --pios-bright-color:        #ffffff00;
+    --pios-bright-color:        #000000;
     --pios-middle-color:        #D3D3D3;
     --pios-dim-color:           #808080;
 }
 
 .theme-light {
-    --pios-background-color:    #FFFFFF;
+    --pios-background-color:    #eeff00;
     --pios-bright-color:        #000000;
     --pios-middle-color:        #696969;
     --pios-dim-color:           #A9A9A9;
